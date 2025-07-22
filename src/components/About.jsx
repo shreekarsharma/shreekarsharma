@@ -1,4 +1,3 @@
-import profile from "../assets/profile.jpg";
 import {
   FaReact,
   FaHtml5,
@@ -33,7 +32,7 @@ const About = () => {
         {/* Profile Image */}
         <div className="flex-shrink-0">
           <img
-            src={profile}
+            src="https://avatars.githubusercontent.com/u/193880038"
             alt="Profile"
             className="rounded-full w-52 h-52 object-cover shadow-lg border-4 border-blue-500"
           />
@@ -42,7 +41,7 @@ const About = () => {
         {/* About Content */}
         <div className="text-center lg:text-left">
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">About Me</h2>
-          <p className="text-base sm:text-lg leading-relaxed mb-6 ">
+          <p className="text-base sm:text-lg leading-relaxed mb-6">
             I'm a frontend developer with a passion for crafting responsive,
             user-centric applications. With a strong foundation in React and
             Tailwind CSS, I build sleek, maintainable UIs and love turning
