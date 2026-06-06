@@ -7,7 +7,7 @@ const Hero = () => {
         Hi, I'm <span className="text-blue-600">Shreekar</span>
       </h1>
       <p className="mt-4 text-lg sm:text-xl text-gray-700 dark:text-gray-300 max-w-xl">
-        I'm a Frontend Developer passionate about building beautiful, scalable web apps using React and Tailwind CSS.
+        MCA Student focused on web development with experience building projects using React, Node.js, Express.js, and MongoDB.
       </p>
 
       <div className="mt-6 flex space-x-4">
