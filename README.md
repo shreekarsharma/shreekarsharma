@@ -1,4 +1,5 @@
-<img width="1920" height="2681" alt="image" src="https://github.com/user-attachments/assets/f6f7623b-82ba-42da-932c-28bab85896cd" /># Shreekar Sharma Portfolio
+<img width="1920" height="2710" alt="image" src="https://github.com/user-attachments/assets/a8b4a724-71a5-4c9b-bbfd-ee41056f4241" />
+# Shreekar Sharma Portfolio
 
 A personal portfolio website built to showcase my projects, technical skills, and contact information. The website highlights my web development journey, featured projects, and technology stack while providing recruiters and visitors with quick access to my work and professional profiles.
 
