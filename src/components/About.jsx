@@ -42,10 +42,7 @@ const About = () => {
         <div className="text-center lg:text-left">
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">About Me</h2>
           <p className="text-base sm:text-lg leading-relaxed mb-6">
-            I'm a frontend developer with a passion for crafting responsive,
-            user-centric applications. With a strong foundation in React and
-            Tailwind CSS, I build sleek, maintainable UIs and love turning
-            ideas into elegant web experiences.
+            I am an MCA student with experience building web applications using React, Node.js, Express.js, and MongoDB. I have developed projects including an e-commerce application, a travel agency website, and a library management system while strengthening my understanding of frontend development, REST APIs, and database integration.
           </p>
 
           {/* Tech Stack Icons */}
