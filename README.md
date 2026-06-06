@@ -1,12 +1,45 @@
-# React + Vite
+<img width="1920" height="2681" alt="image" src="https://github.com/user-attachments/assets/f6f7623b-82ba-42da-932c-28bab85896cd" /># Shreekar Sharma Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built to showcase my projects, technical skills, and contact information. The website highlights my web development journey, featured projects, and technology stack while providing recruiters and visitors with quick access to my work and professional profiles.
 
-Currently, two official plugins are available:
+## Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://shreekarsharma.vercel.app/
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Responsive single-page portfolio design
+* About Me section with technical skills overview
+* Featured project showcase
+* Direct links to GitHub and LinkedIn profiles
+* Resume download functionality
+* Contact form for inquiries
+* Mobile-friendly user interface
+
+## Tech Stack
+
+* React.js
+* JavaScript
+* Tailwind CSS
+* Vite
+* Font Awesome
+
+## Featured Projects
+
+* NextBuy – MERN Stack E-Commerce Application
+* PopCornDB – Movie Search Application
+* Quiz App – React-based Quiz Application
+
+## Project Highlights
+
+* Designed and developed a modern personal portfolio website.
+* Showcases projects, skills, and professional information in a centralized platform.
+* Built responsive layouts for desktop, tablet, and mobile devices.
+* Deployed using Vercel for fast and reliable hosting.
+
+## Author
+
+Shreekar Sharma
+
+* GitHub: https://github.com/shreekarsharma
+* LinkedIn: https://linkedin.com/in/sharmashreekar
